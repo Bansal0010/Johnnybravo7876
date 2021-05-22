@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Harsh Bansal
 
-I am a  Python Developer  I am passionate about technologies and love to learn new things.
+I am a  Python and Java Developer  I am passionate about technologies and love to learn new things.
 
 #### 🔭 I’m currently looking for new opportunities .
 
@@ -18,7 +18,7 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📫 Get in touch
 <!-- 
-[<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='40'>](https://github.com/wlommusic)  [<img src='https://www.flaticon.com/premium-icon/icons/svg/3256/3256016.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dipta-panda//)  [<img src='https://www.flaticon.com/premium-icon/icons/svg/3955/3955024.svg' alt='instagram' height='40'>](https://instagram.com/wlom_music/) [<img src='<https://img.icons8.com/windows/32/000000/hackerrank.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/diptapanda7)  [<img src='https://www.flaticon.com/premium-icon/icons/svg/2626/2626284.svg' alt='spotify' height='40'>](https://open.spotify.com/artist/3VAsl4hVBSwi1Z2Ysb9kuf?si=oJ-E0d63SHyBBr6XFK0aqQ) [<img src='https://img.icons8.com/color/48/000000/gmail-login.png' alt='gmail' height='40'>](mailto:diptapanda7@gmail.com)  [<img src='https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg' alt='github' height='40'>](https://discord.gg/NarJukR7zB)   -->
+[<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='40'>](https://github.com/Johnnybravo7876)  [<img src='https://www.flaticon.com/premium-icon/icons/svg/3256/3256016.svg' alt='linkedin' height='40'>](linkedin.com/in/harsh-bansal-4081b21ba/)  [<img src='https://www.flaticon.com/premium-icon/icons/svg/3955/3955024.svg' alt='instagram' height='40'>](https://www.instagram.com/maqbool__.03/) [<img src='<https://img.icons8.com/windows/32/000000/hackerrank.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/dashboard)  [<img src='https://img.icons8.com/color/48/000000/gmail-login.png' alt='gmail' height='40'>](mailto:harsh.bansal0310@gmail.com)  [<img src='https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg' alt='github' height='40'>](https://discord.gg/NarJukR7zB)   -->
 
     
   
