@@ -8,7 +8,7 @@ I am a  Python and Java Developer  I am passionate about technologies and love t
 
 ## ⚡ Tech Stack
 
-Here are a few things I've picked up along my learning journey.
+Here are a few things I've learnt in my tech journey.
 
 * 🐍 Python  
 * 🖥 Java
