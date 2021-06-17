@@ -1,5 +1,5 @@
 
-Hi, # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Harsh Bansal
+Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Harsh Bansal
 
 I am a  Python and Java Developer  I am passionate about technologies and love to learn new things.
 
