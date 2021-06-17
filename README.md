@@ -15,7 +15,7 @@ Here are a few things I've learnt in my tech journey.
 * ☢️ Pandas | Matplotlib
 * 🛢️ MySQL
 * 🌐 HTML
-* 🖥 C/C++
+* 🖥 C
 * 😏 Machine Learning
 * 
 * ## 📫 Get in touch
