@@ -17,6 +17,7 @@ Here are a few things I've learnt in my tech journey.
 * 🌐 HTML
 * 🖥 C
 * 😏 Machine Learning
+* :octocat: Git | Github
 * ## 📫 Get in touch
 
 
