@@ -18,6 +18,7 @@ Here are a few things I've learnt in my tech journey.
 * 🖥 C
 * 😏 Machine Learning
 * :octocat: Git | Github
+* 📱 DBMS
 * ## 📫 Get in touch
 
 
