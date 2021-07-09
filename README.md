@@ -12,7 +12,7 @@ Here are a few things I've learnt in my tech journey.
 
 * 🐍 Python  
 * 🖥 Java
-* ☢️ HTML|CSS|Javascript
+* ☢️ HTML | CSS | Javascript
 * 🛢️ MySQL
 * 🌐 HTML
 * 🖥 C
