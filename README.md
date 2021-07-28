@@ -14,7 +14,6 @@ Here are a few things I've learnt in my tech journey.
 * 🖥 Java
 * ☢️ HTML | CSS | Javascript
 * 🛢️ MySQL
-* 🌐 HTML
 * 🖥 C
 * 😏 Machine Learning
 * :octocat: Git | Github
